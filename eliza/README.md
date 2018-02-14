@@ -1,1 +1,1 @@
-k
+This program was created to become a psychotherapist for a user.  It took use of regexes (regular expressions) to manipulate the statements that the user makes into questions to promote self thought and continue the conversation with the user.
