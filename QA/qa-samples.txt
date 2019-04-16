@@ -1,0 +1,84 @@
+Where ?’s
+Question1 : Where is Big Ben?
+Correct Answer : Big Ben is located in Westminster, London, England
+My System Answer : Big Ben is located in Westminster, London.
+
+Question2: Where is the Eiffel Tower?
+Correct Answer: The Eiffel Tower is located on 7th arrondissement, Paris, France.
+My System Answer: The Eiffel Tower is located in  7th arrondissement, Paris.
+
+Question3: Where is the White House?
+Correct Answer: It is located at 1600 Pennsylvania Avenue NW in Washington, D.C.
+My System Answer: The White House is located in at 1600 Pennsylvania Avenue NW in Washington, D.C.
+Question4: Where is Mount Vernon?
+Correct Answer: Mount Vernon is located in Fairfax County, Virginia
+My System Answer: Mount Vernon is located in Fairfax County, Virginia nearest_city =    Alexandria. (incorrect)
+
+Question5: Where is the Empire State building?
+Correct Answer: The Empire State building is located at 350 Fifth AvenueManhattan, New York.
+My System Answer: The Empire State building is located in 350 Fifth AvenueManhattan, New York 10118  status = Complete start_date = completion_date = opening = building_type =  Office building; observation deck architectural = tip = roof = top_floor =  observatory = (102nd floor) (86th floor) other_dimensions = east?Çôwest by  north?Çôsouth floor_count = 102[http://skyscrapercenter
+com/building/empire-state-  building/261 "Empire State Building"] The Skyscraper Center Council on Tall  Buildings and Urban Habitat  website[http://skyscraperpage
+com/cities/?buildingID=23 "Empire State  Building"] [[SkyscraperPage]] elevator_count = 73 cost = $40. (incorrect)
+What ?’s
+Question6: What is a bicycle?
+Correct Answer: A bicycle is a human-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other.
+My System Answer: A bicycle is a human-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other.
+
+Question7: What is a car?
+Correct Answer: A car is a wheeled motor vehicle used for transportation.
+My System Answer: A car is a wheeled motor vehicle used for transportation.
+
+Question8: What is a cat?
+Correct Answer: A cat is a small, typically furry, carnivorous mammal.
+My System Answer: I’m sorry, I don’t know the answer. (incorrect)
+
+Question9: What is a dog?
+Correct Answer: A dog is the most widely abundant terrestrial carnivore.
+My System Answer: I’m sorry, I don’t know the answer. (incorrect)
+
+Question10: What are genes?
+Correct Answer: A 'gene' is a sequence of DNA or RNA which codes for a molecule that has a function.
+My System Answer: I’m sorry, I don’t know the answer. (incorrect)
+
+When ?’s
+Question11: When was George Washington born?
+Correct Answer: George Washington was born on February 22, 1732.
+My System Answer: George Washington was born on February 22, 1732.
+
+Question12: When was Thomas Jefferson born?
+Correct Answer: Thomas Jefferson was born on April 13, 1743.
+My System Answer: I’m sorry, I don’t know the answer. (incorrect)
+
+Question13: When was Martin Luther King Jr. born?
+Correct Answer: Martin Luther King Jr. was born on January 15, 1929.
+My System Answer: Martin Luther King Jr. was born on January 15, 1929.
+
+Question14: When was the war of 1812?
+Correct Answer: The war of 1812 was on June 18, 1812.
+My System Answer: The war of 1812 was on June 18, 1812.
+
+Question15: When was the French Revolution?
+Correct Answer: The French Revolution was on July 14, 1789.
+My System Answer:  I’m sorry I don’t know the answer. (incorrect)
+
+Who ?’s
+Question16: Who was George Washington?
+Correct Answer: George Washington was an American statesman and soldier who served as the first President of the United States.
+My System Answer: George Washington was one of the Founding Fathers of the United States. (incorrect)
+
+Question17: Who is Johnny Bravo?
+Correct Answer: 'Johnny Bravo' is an American animated television series.
+My System Answer: Johnny Bravo is an American animated television series created by Van Partible for Cartoon Network, and the second of the network's Cartoon Cartoons. (incorrect)
+
+Question18: Who is Donald Glover?
+Correct Answer: Donald Glover is an American actor, comedian, writer, director, producer, singer, songwriter, rapper, and DJ.
+My System Answer: Donald Glover is an American actor, comedian, writer, director, producer, singer, songwriter, rapper, and DJ.
+
+Question19: Who is Martin Luther King Jr.?
+Correct Answer: Martin Luther King Jr. was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement
+My System Answer: I’m sorry, I don’t know the answer (incorrect)
+
+Question20: Who was Marilyn Monroe?
+Correct Answer: Marilyn Monroe was an American actress, model, and singer.
+My System Answer: Marilyn Monroe was an American actress, model, and singer.
+
