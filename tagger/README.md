@@ -1,0 +1,2 @@
+This program was created to tag the "most likely tag" baseline for a given word by using training data that the program learns and then compares the results with a manually tagged solution. Finding th most likely tag baseline would give us a general idea of what the part of speach of a word could be. This program only takes command line arguments. Example of inputs to put into the program: perl tagger.pl trainingSet.txt testingSet.txt>>result.txt
+The scorer file outputs a confusion matrix and the accuracy by comparing the testing set with the key.
